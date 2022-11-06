@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahmoudradwaan
 - 👀 I’m interested in ML and AI
 - 👀 I’m interested in Embedded systems and Robotics
-- 🌱 I’m currently learning machine learning and version control , Embedded systems , deep learning 
+- 🌱 I’m currently Robotics and IoT master Engineering from Uottawa university
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me my mail mahmoudradwaan98@gmail.com 
 
