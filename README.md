@@ -2,11 +2,13 @@
 mahmoudradwaan98/mahmoudradwaan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Algorithm Engineer| Machine Learning Engineer | Computer Vision Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada
+**Algorithm Engineer| Machine Learning Engineer | Computer Vision Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
 
-Bachelor of Engineering | Major: Mechatronics | Grade: very good with honor.
-Graduation Project: “pick and place using 4-DOF SCARA robot with GUI”.
-Scholarship: Artificial Intelligence & IoT | Huawei , Cisco (NTI).
+**Bachelor of Engineering | Major: Mechatronics | Grade: very good with honor.**
+
+**Graduation Project:** “pick and place using 4-DOF SCARA robot with GUI”.
+
+**Scholarship:** Artificial Intelligence & IoT | Huawei , Cisco (NTI).
 
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
 <h3 align="center">A passionate Computer vision Engineer from Egypt</h3>
