@@ -2,26 +2,37 @@
 mahmoudradwaan98/mahmoudradwaan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Algorithm Engineer| Machine Learning Engineer | Computer Vision Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
+**Embedded Software Engineer|Algorithm Engineer| Machine Learning Engineer | Computer Vision Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
+
+**Master of Engineering and Computer Science | Major: Robotics and IoT**
+**Graduation Project:** “Vehicle identification and Multi-agent path planning for smart Infrastructure Parking Environment”.
+**Research Paper:** “An Online Model-Free Reinforcement Learning Approach for 6-DOF Robot
+Manipulators in ICRA 2023 conference” (In Progress to be Published).
 
 **Bachelor of Engineering | Major: Mechatronics | Grade: very good with honor.**
 
 **Graduation Project:** “pick and place using 4-DOF SCARA robot with GUI”.
 
-**Scholarship:** Artificial Intelligence & IoT | Huawei , Cisco (NTI).
+**Scholarship:** Artificial Intelligence & IoT | Huawei , Cisco (National Telecommunication Institute).
 
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<h3 align="center">A passionate Computer vision Engineer from Egypt</h3>
+<h3 align="center">A passionate Embedded software Engineer | Computer vision Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Vehicle identification Module**
+- 🔭 I’m currently working on **Implementing different Embedded drivers using Atmega32 microcontroller**
+- 
+- 🔭 I’m currently working on **studying Real time operating systems and different Communication protocols ,like (UART,SPI,I2C,CAN,LIN)**
 
-- 🌱 I’m currently learning **tensorflow,pytorch,c++,**
+- 🔭 I Finished working on **Some Embedded drivers : DIO, EXTI, ADC, Timer0, Timer1, ICU, RTOS**
+
+- 🔭 I Finished working on **Vehicle identification Module**
+
+- 🌱 I’m currently learning **tensorflow , pytorch , C++ , C and Embedded C , Problem Solving , Data Structures , Computer vision Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoudradwaan98](https://github.com/mahmoudradwaan98)
 
 - 📝 I regularly write articles on [https://medium.com/@mahmoudradwaan98](https://medium.com/@mahmoudradwaan98)
 
-- 💬 Ask me about **python , carla , easy ocr , tesseract ocr , Ros , docker , kafka , , yolo , machine learning , deep learning**
+- 💬 Ask me about **Embedded Systems, C and Embedded C , Timers , Communication Protocols , Atmega 32 , ,python , carla , easy ocr , tesseract ocr , Ros , docker , kafka , , yolo , machine learning , deep learning**
 
 - 📫 How to reach me **mahmoudradwaan98@gmail.com**
 
