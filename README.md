@@ -19,7 +19,7 @@ Manipulators in ICRA 2023 conference” (In Progress to be Published).
 <h3 align="center">A passionate Embedded software Engineer | Computer vision Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **Implementing different Embedded drivers using Atmega32 microcontroller**
-- 
+
 - 🔭 I’m currently working on **studying Real time operating systems and different Communication protocols ,like (UART,SPI,I2C,CAN,LIN)**
 
 - 🔭 I Finished working on **Some Embedded drivers : DIO, EXTI, ADC, Timer0, Timer1, ICU, RTOS**
