@@ -15,7 +15,7 @@ Manipulators in ICRA 2023 conference” (In Progress to be Published).
 
 **Scholarship:** Artificial Intelligence & IoT | Huawei , Cisco (National Telecommunication Institute).
 
-<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Radwan</h1>
 <h3 align="center">A passionate Embedded software Engineer | Computer vision Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **Implementing different Embedded drivers using Atmega32 microcontroller**
