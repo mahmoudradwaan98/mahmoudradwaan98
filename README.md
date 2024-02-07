@@ -2,37 +2,58 @@
 mahmoudradwaan98/mahmoudradwaan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Embedded Software Engineer|Algorithm Engineer| Machine Learning Engineer | Computer Vision Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
+**Embedded Software Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
+
+**Automotive Embedded System Trainee at National Telecommunication Institute (NTI) · 4 Months  Internship**
+**Technical Modules (288 hrs.):** 
+• C and Embedded C.
+• AVR/ARM Architecture and Interfacing.
+• Real-time operating system (RTOS).
+• Software Component Design and Testing.
+• Automotive Bus Technology Standards (LIN, CAN, CANFD).
+• AUTOSAR.
+• Make-File.
+• Functional Safety.
+• Embedded Cybersecurity.
+
+**Business Skills Modules (132 hrs.):**
+• Business English. • Soft Skills. • Project Management. • Freelancing Skills.
+
+**Embedded Graduation Project:** “AUTOSAR COM Stack with CAN | NTI Final Project”.
+
+• Implemented the Communication Stack layer with AUTOSAR Version R22-11 with CAN and adhered to C-Misra rules.
+• Implemented the (CAN, CANIF, CAN Transceiver, CAN TP, PDUR, COM, and DCM) modules.
+• Followed the AUTOSAR guidelines in transferring data between the layers from SWS and SRS documents.
+• Implemented the DET module within the AUTOSAR COM Stack, enabling effective error detection and handling 
+throughout the development process
 
 **Master of Engineering and Computer Science | Major: Robotics and IoT**
 **Graduation Project:** “Vehicle identification and Multi-agent path planning for smart Infrastructure Parking Environment”.
 **Research Paper:** “An Online Model-Free Reinforcement Learning Approach for 6-DOF Robot
-Manipulators in ICRA 2023 conference” (In Progress to be Published).
+Manipulators in ICRA 2023 conference” **(Published in IEEE ROSE Conference in Japan)--> Access the Full Paper 📃 :https://lnkd.in/di5_BUkZ**
 
 **Bachelor of Engineering | Major: Mechatronics | Grade: very good with honor.**
 
-**Graduation Project:** “pick and place using 4-DOF SCARA robot with GUI”.
+**Graduation Project:** “Pick and place using 4-DOF SCARA robot with GUI”.
 
-**Scholarship:** Artificial Intelligence & IoT | Huawei , Cisco (National Telecommunication Institute).
+**Scholarship:** Artificial Intelligence & IoT | Huawei, Cisco (National Telecommunication Institute).
 
 <h1 align="center">Hi 👋, I'm Mahmoud Radwan</h1>
 <h3 align="center">A passionate Embedded software Engineer | Computer vision Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Implementing different Embedded drivers using Atmega32 microcontroller**
-
-- 🔭 I’m currently working on **studying Real time operating systems and different Communication protocols ,like (UART,SPI,I2C,CAN,LIN)**
-
+- 🔭 I’m currently working on **Bootloader Implementation**
+- 🔭 I’m currently working on **Studying Embedded Cybersecurity and Cryptography**
+- 🔭 I’m currently working on **Implementing different Embedded drivers using ARM cortex_m microcontrollers,like : TIVA C , STM32**
+- 🔭 I’m currently working on **studying Real-time operating systems and different Communication protocols,like (UART,SPI,I2C,CAN,LIN)**
 - 🔭 I Finished working on **Some Embedded drivers : DIO, EXTI, ADC, Timer0, Timer1, ICU, RTOS**
-
 - 🔭 I Finished working on **Vehicle identification Module**
-
 - 🌱 I’m currently learning **tensorflow , pytorch , C++ , C and Embedded C , Problem Solving , Data Structures , Computer vision Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoudradwaan98](https://github.com/mahmoudradwaan98)
 
 - 📝 I regularly write articles on [https://medium.com/@mahmoudradwaan98](https://medium.com/@mahmoudradwaan98)
 
-- 💬 Ask me about **Embedded Systems, C and Embedded C , Timers , Communication Protocols , Atmega 32 , ,python , carla , easy ocr , tesseract ocr , Ros , docker , kafka , , yolo , machine learning , deep learning**
+- 💬 Ask me about **Embedded Systems , Cybersecurity, C and Embedded C , Timers, Communication Protocols , Atmega 32 , ,python , carla , easy ocr , tesseract ocr , Ros , docker , kafka , , yolo , machine learning , deep learning**
 
 - 📫 How to reach me **mahmoudradwaan98@gmail.com**
 
