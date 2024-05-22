@@ -2,7 +2,7 @@
 mahmoudradwaan98/mahmoudradwaan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Embedded Software Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
+**Machine Learning Engineer | Computer Vision Engineer | NLP Ennigeer | Embedded Software Engineer | Robotics and IoT Master's Student at the University of Ottawa, Canada**
 
 **Automotive Embedded System Trainee at National Telecommunication Institute (NTI) · 4 Months  Internship**
 **Technical Modules (288 hrs.):** 
